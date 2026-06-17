@@ -1,2 +1,0 @@
-# AI-Globe
-Own AI
